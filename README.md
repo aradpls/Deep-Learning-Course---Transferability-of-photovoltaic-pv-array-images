@@ -1,5 +1,5 @@
-<h1 align="center">Transferability of photovoltaic (pv) arrays from high resolution
-satellite imagery data for semantic segmentation </h1>
+<h1 align="center">Transferability Of Photovoltaic (PV) Arrays From High Resolution
+Satellite Imagery Data For Semantic Segmentation </h1>
 <p align="left">
 </p>
 
