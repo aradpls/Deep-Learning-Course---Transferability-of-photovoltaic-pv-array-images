@@ -8,3 +8,21 @@ Satellite Imagery Data For Semantic Segmentation </h1>
 <h2 align="center">Hi 👋, Our project aims to identify PV arrays using semantic segmentation models and then apply domain adaptation with AdaptSegNet to reduce domain gaps between datasets, enabling accurate identification of PV arrays across different environments. </h2>
 <p align="left">
 </p>
+
+In this repository You will have access to: 
+
+1. Code of base line evaluation (AUS train, AUS test) and Raw Tranferablity (AUS train, USA test) -> <strong>Baseline Evaluatio_And_Raw_Transferability_NoteBooks_Py</strong> 
+
+2. Code of Domain adaptation with AdaptSegNet architecture -> <strong>DA_AdaptSegNet_NoteBooks_Py</strong> 
+
+3. Code of Domain adaptation with AdaptSegNet architecture and fine tuning for improvemnts -> <strong>DA_AdaptSegNet_FT_NoteBooks_Py</strong>
+
+In each folder of code we uses Resnet18 backbone anf the following architectures: U-Net, DeepLabV3+, FPN, PSP-Net
+
+4. Figures from the project -> <strong>Figures</strong>
+
+5. Final project proposal in pdf format -> <strong>DL_Final_Project_Proposal</strong>
+
+6. Final project report in pdf format -> <strong></strong>
+
+Thank You.
