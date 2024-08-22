@@ -11,13 +11,14 @@ Satellite Imagery Data For Semantic Segmentation </h1>
 
 In this repository You will have access to: 
 
-1. Code of base line evaluation (AUS train, AUS test) and Raw Tranferablity (AUS train, USA test) 
+1. Code of base line evaluation (AUS train, AUS test) and Raw Tranferablity (AUS train, USA test)
+
 -> <strong>Baseline Evaluatio_And_Raw_Transferability_NoteBooks_Py</strong> 
 
-2. Code of Domain adaptation with AdaptSegNet architecture 
+3. Code of Domain adaptation with AdaptSegNet architecture 
 -> <strong>DA_AdaptSegNet_NoteBooks_Py</strong> 
 
-3. Code of Domain adaptation with AdaptSegNet architecture and fine tuning for improvemnts 
+4. Code of Domain adaptation with AdaptSegNet architecture and fine tuning for improvemnts 
 -> <strong>DA_AdaptSegNet_FT_NoteBooks_Py</strong>
 
 In each folder of code we uses Resnet18 backbone and the following architectures: U-Net, DeepLabV3+, FPN, PSP-Net
