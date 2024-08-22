@@ -15,11 +15,11 @@ In this repository You will have access to:
 
 -> <strong>Baseline Evaluatio_And_Raw_Transferability_NoteBooks_Py</strong> 
 
-3. Code of Domain adaptation with AdaptSegNet architecture
+2. Code of Domain adaptation with AdaptSegNet architecture
  
 -> <strong>DA_AdaptSegNet_NoteBooks_Py</strong> 
 
-5. Code of Domain adaptation with AdaptSegNet architecture and fine tuning for improvemnts
+3. Code of Domain adaptation with AdaptSegNet architecture and fine tuning for improvemnts
 
 -> <strong>DA_AdaptSegNet_FT_NoteBooks_Py</strong>
 
