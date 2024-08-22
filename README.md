@@ -15,10 +15,12 @@ In this repository You will have access to:
 
 -> <strong>Baseline Evaluatio_And_Raw_Transferability_NoteBooks_Py</strong> 
 
-3. Code of Domain adaptation with AdaptSegNet architecture 
+3. Code of Domain adaptation with AdaptSegNet architecture
+ 
 -> <strong>DA_AdaptSegNet_NoteBooks_Py</strong> 
 
-4. Code of Domain adaptation with AdaptSegNet architecture and fine tuning for improvemnts 
+5. Code of Domain adaptation with AdaptSegNet architecture and fine tuning for improvemnts
+
 -> <strong>DA_AdaptSegNet_FT_NoteBooks_Py</strong>
 
 In each folder of code we uses Resnet18 backbone and the following architectures: U-Net, DeepLabV3+, FPN, PSP-Net
