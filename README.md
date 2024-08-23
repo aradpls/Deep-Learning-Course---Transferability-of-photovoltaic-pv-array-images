@@ -23,7 +23,7 @@ In this repository You will have access to:
 
 -> <strong>DA_AdaptSegNet_FT_NoteBooks_Py</strong>
 
-In each code folder, we use the ResNet18 backbone with the following architectures: U-Net, DeepLabV3+, FPN, and PSP-Net.
+In each code folder, we use the ResNet18 backbone with the following architectures: U-Net, Linknet, FPN, and PSP-Net.
 
 4. Figures from the project. -> <strong>Figures</strong>
 
