@@ -19,7 +19,7 @@ In this repository You will have access to:
  
 -> <strong>DA_AdaptSegNet_NoteBooks_Py</strong> 
 
-3. Code of Domain adaptation with AdaptSegNet architecture and fine tuning for improvments.
+3. Code of Domain adaptation with AdaptSegNet architecture and fine tuning.
 
 -> <strong>DA_AdaptSegNet_FT_NoteBooks_Py</strong>
 
