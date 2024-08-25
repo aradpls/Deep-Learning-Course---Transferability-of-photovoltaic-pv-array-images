@@ -29,7 +29,7 @@ In each code folder, we use the ResNet18 backbone with the following architectur
 
 5. Final project proposal in pdf format. -> <strong>DL_Final_Project_Proposal</strong>
 
-6. Final project report in pdf format. -> <strong></strong>
+6. Final project report in pdf format. -> <strong>DL_Final_Project_Sub</strong>
 
 Thank You.
 
